@@ -10,5 +10,8 @@ public class Client {
         produitA = produitFactory.geProduitA(ProduitFactory.TYPE_PRODUITA2);
         produitA.methodA();
 
+        produitA = produitFactory.geProduitA(ProduitFactory.TYPE_PRODUITA3);
+        produitA.methodA();
+
     }
 }
