@@ -53,4 +53,6 @@ public final class Singleton {
     public Object clone() throws CloneNotSupportedException {
         throw new CloneNotSupportedException();
     }
+
+    // fin de la classe Singleton
 }
