@@ -1,3 +1,5 @@
+package devoir_3.Code.exempleModifier;
+
 public final class Arithmetique {
     private static Arithmetique instance = null;
 

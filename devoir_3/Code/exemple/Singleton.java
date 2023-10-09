@@ -1,3 +1,5 @@
+package devoir_3.Code.exemple;
+
 public final class Singleton {
     private static Singleton instance = null;
 
