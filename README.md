@@ -36,10 +36,10 @@ le contenu de modele.odt est exporté sous dorme pdf (Modèle.pdf) et stocké da
 
 # REFÉRENCES
 
-devoir_1  : Le Patron Factory
-devoir_2  : Le Patron Abstract Factory
-devoir_3  : Le patron Singleton
-devoir_4  : Le Patron Builder
+devoir_1  : **Le Patron Factory**
+devoir_2  : **Le Patron Abstract Factory**
+devoir_3  : **Le patron Singleton**
+devoir_4  : **Le Patron Builder**
 
 # EXECUTION
 
