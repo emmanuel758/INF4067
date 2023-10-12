@@ -1,4 +1,4 @@
-package devoir_3.LEUNA_FIENKAK_NKEHEUP_20U2698.Code.exemple;
+// package devoir_3.LEUNA_FIENKAK_NKEHEUP_20U2698.Code.exemple;
 
 public class TestSingleton {
     public static void main(String[] args) {

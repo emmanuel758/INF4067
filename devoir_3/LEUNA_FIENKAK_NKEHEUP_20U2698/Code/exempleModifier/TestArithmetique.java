@@ -1,4 +1,4 @@
-package devoir_3.LEUNA_FIENKAK_NKEHEUP_20U2698.Code.exempleModifier;
+// package devoir_3.LEUNA_FIENKAK_NKEHEUP_20U2698.Code.exempleModifier;
 public class TestArithmetique {
     public static void main(String[] args) {
         int som = Arithmetique.getInstance().somme(2, 5);

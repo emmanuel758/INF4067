@@ -1,4 +1,4 @@
-package devoir_1.LEUNA_FIENKAK_NKEHEUP_20U2698.Code.Factory_1ere_Method;
+// package devoir_1.LEUNA_FIENKAK_NKEHEUP_20U2698.Code.Factory_1ere_Method;
 public class ProduitFactory {
     public static final int TYPE_PRODUITA1 = 1;
     public static final int TYPE_PRODUITA2 = 2;

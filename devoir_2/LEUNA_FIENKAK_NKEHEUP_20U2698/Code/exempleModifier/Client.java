@@ -1,4 +1,4 @@
-package devoir_2.LEUNA_FIENKAK_NKEHEUP_20U2698.Code.exempleModifier;
+// package devoir_2.LEUNA_FIENKAK_NKEHEUP_20U2698.Code.exempleModifier;
 
 public class Client {
     public static void main(String[] args) {

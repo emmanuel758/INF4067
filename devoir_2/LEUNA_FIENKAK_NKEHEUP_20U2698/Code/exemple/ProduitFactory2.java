@@ -1,4 +1,4 @@
-package devoir_2.LEUNA_FIENKAK_NKEHEUP_20U2698.Code.exemple;
+// package devoir_2.LEUNA_FIENKAK_NKEHEUP_20U2698.Code.exemple;
 
 public class ProduitFactory2 implements IProduitFactory {
 
