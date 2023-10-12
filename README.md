@@ -46,8 +46,15 @@ devoir_4  : **Le Patron Builder**
 ### EXECUTION
 
 Après avoir télécharger et decompresser l'archive LEUNA FIENKAK NKEHEUP.zip, se placer dans l'un des dossier exemple ou exempleModifier
-ouvrir l'emplacement dans un terminal et entrer la commande **javac *.java*** pour compiler tous les fichier .java du dossier
-puis exécuter en appelant la classe de test (client) avec la commande **java client**
+ouvrir l'emplacement dans un terminal et entrer la commande
+ ```
+**javac *.java***
+ ```
+pour compiler tous les fichier .java du dossier
+puis exécuter en appelant la classe de test (client) avec la commande 
+```
+**java client**
+ ```
 
 ### NOTE
 
