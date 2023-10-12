@@ -11,12 +11,12 @@ Chaque dossier (devoir_*) est rattaché a un patron de conception et sa structur
   |---LEUNA FIENKAK NKEHEUP  
   |   |---Code  
   |   |   |---exemple  
-  |   |   |   |---client.java  
+  |   |   |   |---Client.java  
   |   |   |   |---class2.java  
   |   |   |   |---....  
   |   |   |   |---classn.java  
   |   |   |---exempleModifier  
-  |   |   |   |---clent.java  
+  |   |   |   |---Client.java  
   |   |   |   |---class2.java  
   |   |   |   |---....  
   |   |   |   |---classn.java  
@@ -53,7 +53,7 @@ javac *.java
 pour compiler tous les fichier .java du dossier
 puis exécuter en appelant la classe de test (client) avec la commande 
 ```
-java client
+java Client
  ```
 
 ### NOTE
