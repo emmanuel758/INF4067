@@ -8,7 +8,7 @@ Chaque dossier (devoir_*) est rattaché a un patron de conception et sa structur
 
   ```
   devoir_*
-  |---LEUNA FIENKAK NKEHEUP  
+  |---LEUNA_FIENKAK_NKEHEUP_20U2698 
   |   |---Code  
   |   |   |---exemple  
   |   |   |   |---Client.java  
@@ -21,18 +21,18 @@ Chaque dossier (devoir_*) est rattaché a un patron de conception et sa structur
   |   |   |   |---....  
   |   |   |   |---classn.java  
   |   |---Modèle.pdf  
-  |---LEUNA FIENKAK NKEHEUP.ZIP  
+  |---LEUNA_FIENKAK_NKEHEUP_20U2698.ZIP  
   Lien GitHub.txt  
   modele.dia
   modele.odt
  ```
 Les fichiers modele.dia et modele.odt sont des fichiers templates (utilisées lors du traitement d'un exercice). Lorsque un modèle doit être déssiner
 celui - ci est fait dans modele.dia puis est exporté sous forme d'image et importé dans modele.odt. Lorsque la saisie est terminée dans modele.odt pour un exercice donné,
-le contenu de modele.odt est exporté sous dorme pdf (Modèle.pdf) et stocké dans le dossier LEUNA FIENKAK NKEHEUP
+le contenu de modele.odt est exporté sous dorme pdf (Modèle.pdf) et stocké dans le dossier LEUNA_FIENKAK_NKEHEUP_20U2698
 
 - Dans le dossier exemple se trouve l'exemple du support de cours et dans exempleModifier, une copie modifiée de l'exemple du cours
 
-- Dans chaque dossier devoir_* se trouve une archive LEUNA FIENKAK NKEHEUP.zip qui est tout simplement le contenu archiver du dossier LEUNA FIENKAK NKEHEUP
+- Dans chaque dossier devoir_* se trouve une archive LEUNA_FIENKAK_NKEHEUP.zip qui est tout simplement le contenu archiver du dossier LEUNA_FIENKAK_NKEHEUP_20U2698
 
 - Dans chaque dossier de code (exemple, exempleModifier) se trouve un fichier client.java qui est le fichier de test
 
