@@ -1,0 +1,23 @@
+public class Client {
+    public static void main(String[] args) {
+        Meuble m1 = new Chaise();
+        Meuble m2 = new Table();
+        Meuble m3 = new Armoire();
+
+        m1.couleur = "Rouge";
+        m2.couleur = "Noir";
+        m3.couleur = "Bleu";
+
+        // utilisation du prototype 1 (chaise)
+        Meuble m11 = m1.Copy();
+        m11.affiche();
+
+        // utilisation du prototype 2 (table)
+        Meuble m22 = m2.Copy();
+        m22.affiche();
+
+        // utilisation du prototype 3 (armoire)
+        Meuble m33 = m3.Copy();
+        m33.affiche();
+    }
+}
