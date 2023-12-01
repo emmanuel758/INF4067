@@ -44,7 +44,10 @@ devoir_2 : **Le Patron Abstract Factory**
 devoir_3 : **Le patron Singleton**  
 devoir_4 : **Le Patron Builder**  
 devoir_5 : **Le Patron Prototype**  
-devoir_6 : **Le Patron Adapter**
+devoir_6 : **Le Patron Adapter**  
+devoir_7 : **Le Patron Composite**  
+devoir_8 : **Le Patron Bridge**  
+devoir_9 : **Le Patron Decorator**  
 
 ### EXECUTION
 
