@@ -28,8 +28,6 @@ public class Client {
         // utilisation de obtenir sur un dossier
         d2.obtenir();
 
-        //
-
     }
 
 }
