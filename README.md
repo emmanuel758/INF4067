@@ -48,6 +48,7 @@ devoir_6 : **Le Patron Adapter**
 devoir_7 : **Le Patron Composite**  
 devoir_8 : **Le Patron Bridge**  
 devoir_9 : **Le Patron Decorator**  
+devoir_10 : **Le Patron Iterator**  
 
 ### EXECUTION
 
